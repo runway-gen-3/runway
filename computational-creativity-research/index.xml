@@ -6,6 +6,6 @@
     <description>Recent content in Computational Creativity Lab on runway.alpha-gen3.com</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/computational-creativity-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="../computational-creativity-research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
